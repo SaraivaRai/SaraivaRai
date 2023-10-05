@@ -1,5 +1,3 @@
-# academy-template-readme-profile
-
 # Oi, me chamo Rai Saraiva Dantas 👋
 
 ### Sobre mim
